@@ -1,0 +1,3 @@
+/Users/zhouma/workspace/mygit/c_make/ch01/build/CMakeFiles/rebuild_cache.dir
+/Users/zhouma/workspace/mygit/c_make/ch01/build/CMakeFiles/edit_cache.dir
+/Users/zhouma/workspace/mygit/c_make/ch01/build/CMakeFiles/hello.dir
